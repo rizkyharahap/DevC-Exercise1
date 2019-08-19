@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Tahoma;
+}
+.container {
+  color: white;
+  box-sizing: border-box;
+}
+.header {
+  background-color: purple;
+}
+h1 {
+  text-align: center;
+  padding-top: 1rem;
+
+}
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+  border: solid white 0.5rem;
+  display: block;
+  margin: 0.75rem auto
+}
+h2 {
+  text-align: center;
+}
